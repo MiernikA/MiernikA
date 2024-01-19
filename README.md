@@ -41,8 +41,9 @@
 <h2 align="center">📈 Stats 📈</h2>
 <br>
 <div align=center>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MiernikA)](https://git.io/streak-stats)
-  <img width=390 src="https://github-readme-stats-MiernikA.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+[![GitHub Streak]()](https://git.io/streak-stats)
+ 
+  <img width=390 src="https://streak-stats.demolab.com/?user=MiernikA" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-MiernikA.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
