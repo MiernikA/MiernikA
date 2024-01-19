@@ -57,8 +57,7 @@
     height="600"
     frameborder="0"
     scrolling="no"
-    src="[URL_TO_YOUR_HOSTED_SNAKE_ANIMATION](https://raw.githubusercontent.com/MiernikA/MiernikA/output/github-contribution-grid-snake.svg)https://raw.githubusercontent.com/MiernikA/MiernikA/output/github-contribution-grid-snake.svg"
-  ></iframe>
+    src="https://raw.githubusercontent.com/MiernikA/MiernikA/output/github-contribution-grid-snake.svg></iframe>
 </div>
 
 
