@@ -49,11 +49,10 @@
 
 
 <h2 align="center">🐍 Contributions 🐍</h2>
-  <br>
   <img alt="snake" src="https://raw.githubusercontent.com/MiernikA/MiernikA/output/github-contribution-grid-snake.svg" />
   
 </div>
-</hr>
+<hr/>
 
 
 
