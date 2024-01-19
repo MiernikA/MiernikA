@@ -60,6 +60,8 @@
 </div>
 <hr/>
 
+**If any animations seems to freeze, scroll in/out** 
+
 
 
 
