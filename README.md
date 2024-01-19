@@ -52,14 +52,8 @@
 
 <h2 align="center">🐍 Contributions 🐍</h2>
 <div align="center">
-  <iframe
-    width="600"
-    height="600"
-    frameborder="0"
-    scrolling="no"
-    src="https://raw.githubusercontent.com/MiernikA/MiernikA/output/github-contribution-grid-snake.svg"
-   >
-   </iframe>
+ <img src="https://raw.githubusercontent.com/MiernikA/MiernikA/output/github-contribution-grid-snake.svg"/>
+ 
 </div>
 
 
