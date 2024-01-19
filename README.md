@@ -31,7 +31,7 @@
 <h2 align="center">🛠️ Tools 🛠️</h2>
 <br/>
 <div align="center">
-     <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,ableton,p" /><br/><br/>
+     <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,ableton,ps" /><br/><br/>
 </div>
 
 <br/>
