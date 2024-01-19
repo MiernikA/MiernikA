@@ -24,14 +24,15 @@
 <h2 align="center">🌐 Languages & Frameworks 🌐</h2>
 <br/>
 <div align="center">
-     <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,tailwind,threejs,react,jest" /><br/><br/>
-     <img src="https://skillicons.dev/icons?i=cpp,php,laravel,py" />
+     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nodejs,tailwind,threejs,react,jest" /><br/><br/>
+     <img src="https://skillicons.dev/icons?i=cpp,php,laravel,py,mysql" />
 </div>
 <br/>
 <h2 align="center">🛠️ Tools 🛠️</h2>
 <br/>
 <div align="center">
-     <img src="https://skillicons.dev/icons?i=html" /><br/><br/>
+     <img src="https://skillicons.dev/icons?i=vscode,github,git,figma" /><br/><br/>
+     <img src="https://skillicons.dev/icons?i=ableton,ps" /><br/><br/>
 </div>
 
 <br/>
