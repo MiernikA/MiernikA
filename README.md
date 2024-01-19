@@ -24,8 +24,7 @@
 <h2 align="center">🌐 Languages & Frameworks 🌐</h2>
 <br/>
 <div align="center">
-     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nodejs,tailwind,threejs,react,jest" /><br/><br/>
-     <img src="https://skillicons.dev/icons?i=cpp,php,laravel,py,mysql" />
+     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nodejs,tailwind,threejs,react,jest" /><br/>
 </div>
 <br/>
 <h2 align="center">🛠️ Tools 🛠️</h2>
