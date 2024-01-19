@@ -1,67 +1,76 @@
-<img  left_color = "#FF0000" src="https://visitor-badge.laobi.icu/badge?page_id=MiernikA.MiernikA&left_text=NumberOfVisits&left_color=black&right_color=navy" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&weight=500&size=28&duration=3000&pause=500&color=000080&center=true&vCenter=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;+I'm+Adrian!" alt="Typing SVG" />
- 
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
 </h1>
 
-
-<h3 align="center">A computer studies student developing proficiency as a software developer with a focus on frontend technologies.</h3>
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
 <br/>
 
 <div align="center">
  
- 🎓 I’m currently learning **Vite, ThreeJs, TailwindCSS**
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
+
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
-<div align="center" > 
-  <a href="https://miernika.github.io/about-me/" target="_blank">
-     <img src="https://img.shields.io/badge/CHECK%20MY%20PORTFOLIO!-000000?style=for-the-badge&logo=github&logoColor=white target="_blank" />
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
+<br/>
 <hr/>
-<h2 align="center">📈 Stats 📈</h2>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
- 
-  <img height=170  src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MiernikA&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    <img height=170  src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MiernikA&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-<hr/>
-<h2 align="center">🌐 Languages & Frameworks 🌐</h2>
-<br/>
-<div align="center">
-     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nodejs,tailwind,threejs,react,jest" /><br/><br/>
-      <img src="https://skillicons.dev/icons?i=cpp,php,laravel,py,mysql" /><br/>
-</div>
-<br/>
-<h2 align="center">🛠️ Tools 🛠️</h2>
-<br/>
-<div align="center">
-     <img src="https://skillicons.dev/icons?i=vscode,git,github,sqlite,figma,ableton,pr,ps" /><br/><br/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/>
+<br/><br/>
+
 <hr/>
 
+<br/>
 
-
-
-
-<h2 align="center">🐍 Contributions 🐍</h2>
 <div align="center">
- <img src="https://raw.githubusercontent.com/MiernikA/MiernikA/output/github-contribution-grid-snake.svg" loading="lazy" />
- 
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
-
-</div>
-<hr/>
-
-**If any animations seems to freeze, scroll in/out 🙂**  
-
-
-
-
+<br/>
