@@ -25,6 +25,7 @@
 <br/>
 <div align="center">
      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nodejs,tailwind,threejs,react,jest" /><br/>
+      <img src="https://skillicons.dev/icons?i=cpp,php,laravel,py,mysql" /><br/>
 </div>
 <br/>
 <h2 align="center">🛠️ Tools 🛠️</h2>
