@@ -21,10 +21,10 @@
 </div>
 
 <hr/>
-<h2 align="center"></> Languages </></h2>
+<h2 align="center">🌐 Languages & Frameworks 🌐</h2>
 <br/>
 <div align="center">
-     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
+     <img src="https://skillicons.dev/icons?i=css,tailwind,threejs,html,js,react,cpp,jest,laravel,nodejs,php,py,ts,wordpress" />
 
 </div>
 
