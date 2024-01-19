@@ -1,4 +1,4 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=MiernikA.MiernikA" />
+<img  left_color = "#FF0000" src="https://visitor-badge.laobi.icu/badge?page_id=MiernikA.MiernikA" />
 
 <h1 align="center">
 123
