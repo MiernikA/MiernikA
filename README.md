@@ -52,9 +52,7 @@
 
 <h2 align="center">🐍 Contributions 🐍</h2>
   <img alt="snake" src="https://raw.githubusercontent.com/MiernikA/MiernikA/output/github-contribution-grid-snake.svg" />
-</div>
-<hr/>
-<script>
+  <script>
 document.addEventListener('DOMContentLoaded', function() {
   // Function to check if an element is in the viewport
   function isElementInViewport(el) {
@@ -85,6 +83,9 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 });
 </script>
+
+</div>
+<hr/>
 
 
 
