@@ -23,11 +23,7 @@
 <hr/>
  
 <br>
-<div align=center>
- 
-  <img height=170  src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MiernikA&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    <img height=170  src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MiernikA&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+
 <hr/>
 <h2 align="center">🌐 Languages & Frameworks 🌐</h2>
 <br/>
@@ -38,6 +34,10 @@
 <br/>
 <h2 align="center">🛠️ Tools 🛠️</h2>
 <br/>
+<div align="center">
+     <img src="https://skillicons.dev/icons?i=vscode,git,github,sqlite,figma,ableton,pr,ps" /><br/><br/>
+</div>
+
 <hr/>
 
 <div align="center">
