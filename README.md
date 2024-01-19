@@ -53,7 +53,6 @@
   <br>
   <img alt="snake" src="https://raw.githubusercontent.com/MiernikA/MiernikA/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/>
 </div>
 </hr>
 
