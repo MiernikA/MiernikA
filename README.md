@@ -31,7 +31,7 @@
 <h2 align="center">🛠️ Tools 🛠️</h2>
 <br/>
 <div align="center">
-     <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,ableton,ps" /><br/><br/>
+  <img width=390 src="https://github-readme-streak-stats-MiernikA.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 
 <br/>
