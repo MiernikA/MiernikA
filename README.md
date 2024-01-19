@@ -16,7 +16,7 @@
  
 <div align="center" width="80%"> 
   <a href="https://miernika.github.io/about-me/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=navy" target="_blank" />
+     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=navy" target="_blank" />
   </a>
 </div>
 
