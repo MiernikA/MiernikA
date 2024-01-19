@@ -19,6 +19,7 @@
      <img src="https://img.shields.io/badge/CHECK%20MY%20PORTFOLIO!-000000?style=for-the-badge&logo=github&logoColor=white target="_blank" />
   </a>
 </div>
+<hr/>
 <h2 align="center">📈 Stats 📈</h2>
 <br>
 <div align=center>
