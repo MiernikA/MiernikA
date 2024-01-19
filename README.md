@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&weight=500&size=28&duration=3000&pause=500&color=000080&center=true&vCenter=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;+I'm+Adrian!" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center" width="80%">A computer studies student developing proficiency as a software developer with a focus on frontend technologies.</h3>
+<h3 align="center" style="width:80%">A computer studies student developing proficiency as a software developer with a focus on frontend technologies.</h3>
 
 <br/>
 
@@ -16,7 +16,7 @@
  
 <div align="center" > 
   <a href="https://miernika.github.io/about-me/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white target="_blank" />
+     <img src="https://img.shields.io/badge/"Check Out My Projects!"-000000?style=for-the-badge&logo=github&logoColor=white target="_blank" />
   </a>
 </div>
 
