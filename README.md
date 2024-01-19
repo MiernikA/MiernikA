@@ -42,8 +42,8 @@
 <br>
 <div align=center>
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiernikA)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiernikA&layout=compact)
 </div>
 </div>
 
