@@ -54,7 +54,37 @@
   <img alt="snake" src="https://raw.githubusercontent.com/MiernikA/MiernikA/output/github-contribution-grid-snake.svg" />
 </div>
 <hr/>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Function to check if an element is in the viewport
+  function isElementInViewport(el) {
+    var rect = el.getBoundingClientRect();
+    return (
+      rect.top >= 0 &&
+      rect.left >= 0 &&
+      rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+      rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+    );
+  }
 
+  // Function to start the snake animation when the element is in the viewport
+  function startSnakeAnimation() {
+    var snakeContainer = document.getElementById('snake-container');
+    if (isElementInViewport(snakeContainer)) {
+      // Trigger the snake animation here
+      // You can use the existing code or call a separate function to start the animation
+    }
+  }
+
+  // Check if the element is in the viewport on page load
+  startSnakeAnimation();
+
+  // Check if the element is in the viewport when the user scrolls
+  window.addEventListener('scroll', function() {
+    startSnakeAnimation();
+  });
+});
+</script>
 
 
 
