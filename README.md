@@ -6,13 +6,13 @@
 </h1>
 
 
-<h3 align="center">A computer studies student developing proficiency as a software developer with a focus on frontend technologies.</h3>
+<h3 align="center">A recent Computer Studies graduate and Software Engineer with a focus on frontend technologies and UX design ideas.</h3>
 
 <br/>
 
 <div align="center">
  
- 🎓 I’m currently learning **Vite, ThreeJs, TailwindCSS**
+ 🎓 I’m currently learning **Next.js, ReactNative**
 
  </div>
  
@@ -33,14 +33,14 @@
 <h2 align="center">🌐 Languages & Frameworks 🌐</h2>
 <br/>
 <div align="center">
-     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nodejs,tailwind,threejs,react,jest" /><br/><br/>
-      <img src="https://skillicons.dev/icons?i=cpp,php,laravel,py,mysql" /><br/>
+     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,vite,nextjs,tailwind,materialui,threejs,nodejs,jest" /><br/><br/>
+      <img src="https://skillicons.dev/icons?i=cpp,php,py,django,mysql,sqlite" /><br/>
 </div>
 <br/>
 <h2 align="center">🛠️ Tools 🛠️</h2>
 <br/>
 <div align="center">
-     <img src="https://skillicons.dev/icons?i=vscode,git,github,sqlite,figma,ableton,pr,ps" /><br/><br/>
+     <img src="https://skillicons.dev/icons?i=phpstorm,pycharm,webstorm,vscode,gitlab,github,git,docker,vercel,figma,ableton,pr,ps" /><br/><br/>
 </div>
 
 <br/>
