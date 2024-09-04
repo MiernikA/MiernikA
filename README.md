@@ -33,7 +33,7 @@
 <h2 align="center">🌐 Languages & Frameworks 🌐</h2>
 <br/>
 <div align="center">
-     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,vite,nextjs,tailwind,materialui,threejs,nodejs,jest" /><br/><br/>
+     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,tailwind,materialui,threejs,nodejs,express,jest" /><br/><br/>
       <img src="https://skillicons.dev/icons?i=cpp,php,py,django,mysql,sqlite" /><br/>
 </div>
 <br/>
