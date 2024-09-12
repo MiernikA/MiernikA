@@ -51,13 +51,10 @@
 
 
 <h2 align="center">🐍 Contributions 🐍</h2>
-<table>
-  <tr>
-    <td style="border: 5px solid red;">
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=MiernikA.MiernikA&left_text=NumberOfVisits&left_color=black&right_color=navy" />
-    </td>
-  </tr>
-</table>
+<div align="center" >
+  <img src="https://raw.githubusercontent.com/MiernikA/MiernikA/output/github-contribution-grid-snake.gif" />
+</div>
+
 
 </div>
 <hr/>
