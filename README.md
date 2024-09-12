@@ -51,7 +51,7 @@
 
 
 <h2 align="center">🐍 Contributions 🐍</h2>
-<div align="center" style="border:'1px solid white'">
+<div align="center" style="border:10px solid black">
  <img src="https://raw.githubusercontent.com/MiernikA/MiernikA/output/github-contribution-grid-snake.gif"/>
  
 </div>
