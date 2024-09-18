@@ -17,7 +17,7 @@
  </div>
  
 <div align="center" > 
-  <a href="https://miernika.github.io/about-me/" target="_blank">
+  <a href="https://portfolio-page-ochre-three.vercel.app" target="_blank">
      <img src="https://img.shields.io/badge/CHECK%20MY%20PORTFOLIO!-000000?style=for-the-badge&logo=github&logoColor=white target="_blank" />
   </a>
 </div>
