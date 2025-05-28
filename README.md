@@ -33,8 +33,8 @@
 <h2 align="center">🌐 Languages & Frameworks 🌐</h2>
 <br/>
 <div align="center">
-     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,tailwind,materialui,threejs,nodejs,express,jest" /><br/><br/>
-      <img src="https://skillicons.dev/icons?i=cpp,php,py,django,mysql,sqlite" /><br/>
+     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,vite,nextjs,tailwind,materialui,threejs,nodejs,express,jest" /><br/><br/>
+      <img src="https://skillicons.dev/icons?i=cpp,java,spring,py,django,mysql,sqlite,postgres" /><br/>
 </div>
 <br/>
 <h2 align="center">🛠️ Tools 🛠️</h2>
