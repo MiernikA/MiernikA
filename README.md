@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🎓 I’m currently learning **Next.js, ReactNative**
+ 🎓 I’m currently learning **Vue.js**
 
  </div>
  
