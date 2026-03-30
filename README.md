@@ -12,12 +12,12 @@
 
 <div align="center">
  
- 🎓 I’m currently learning **Vue.js**
+ 🎓 I’m currently learning **FastApi** and **AI development**
 
  </div>
  
 <div align="center"> 
-  <a href="https://portfolio-page-ochre-three.vercel.app" target="_blank">
+  <a href="https://miernika.github.io/portfolio-page" target="_blank">
     <img src="https://img.shields.io/badge/CHECK%20MY%20PORTFOLIO!-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
